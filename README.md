@@ -1,1 +1,3 @@
-# ta
+# Sistema Bancário Python
+## Incluindo as seguintes funcionalidades; Criação de Contas, transações e segurança.
+### Melhoramentos implementados; Funções para cada operação: depositar, sacar, mostrar_extrato, e mostrar_menu ajudam a organizar o código. Melhor validação de entrada: As funções verificam se os valores são válidos antes de processar as operações. Mensagens claras: Mensagens informativas foram adicionadas para confirmar as operações e informar sobre falhas. Fluxo de controle corrigido: Garantido que as operações de depósito e saque sejam processadas corretamente dentro dos blocos de controle apropriados. Buscando aplicar boas práticas e aplicar maior segurança.
